@@ -1,0 +1,42 @@
+.create-form .todo-table__item {
+    display: flex;
+}
+
+
+.todo__alert--success {
+    width: 100%;
+    background: #d1e7dd;
+    color: #0f5132;
+    border-color: #badbcc
+}
+
+.create-form__button-submit {
+    padding: 10px;
+    width: 40%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+.update-form__button-submit {
+    padding: 10px;
+    width: 20%;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+    background: #0000ff;
+    color: #fff;
+    cursor: pointer;
+}
+.delete-form__button-submit {
+        padding: 10px;
+    width: 20%;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+    background: #ff0000;
+    color: #fff;
+    cursor: pointer;
+}
